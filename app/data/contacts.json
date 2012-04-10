@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "first_name": "Bob",
+        "last_name": "Dole",
+        "phone": "306-112-2232",
+        "fav_colour": "red"
+    },
+    {
+        "id": 2,
+        "first_name": "Ben",
+        "last_name": "Thompson",
+        "phone": "306-334-2232",
+        "fav_colour": "green"
+    },
+    {
+        "id": 3,
+        "first_name": "Bruce",
+        "last_name": "Wayne",
+        "phone": "306-454-6767",
+        "fav_colour": "blue"
+    },
+    {
+        "id": 4,
+        "first_name": "Terry",
+        "last_name": "Swanson",
+        "phone": "306-656-2232",
+        "fav_colour": "red"
+    },
+    {
+        "id": 5,
+        "first_name": "Aunt",
+        "last_name": "Jamima",
+        "phone": "306-344-6677",
+        "fav_colour": "yellow"
+    }
+]
