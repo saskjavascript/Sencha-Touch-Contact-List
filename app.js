@@ -1,13 +1,27 @@
 Ext.application({
-    name: '',
-    views: [],
+    name: 'SKJS',
+    views: [
+        'Main',
+        'Contacts',
+        'ContactsList',
+        'ContactDetails'
+    ],
 
-    models: [],
-    controllers: [],
-    stores: [],
+    models: [
+        'Contact'
+    ],
+    controllers: [
+        'Contacts'
+    ],
+    stores: [
+        'Contacts'
+    ],
 
     launch: function()
     {
+        Ext.Viewport.add({
+            xclass: 'SKJS.view.Main'
+        });
     }
 
 });
