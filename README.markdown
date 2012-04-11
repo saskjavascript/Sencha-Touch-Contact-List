@@ -1,1 +1,1 @@
-![Alt text](contact-list-wireframe.psd "Optional title")
+![Alt text](contact-list-wireframe-1.png "Optional title")
