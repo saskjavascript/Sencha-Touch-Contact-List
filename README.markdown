@@ -1,1 +1,1 @@
-![Alt text](contact-list-wireframe-1.png "Optional title")
+![Alt text](https://github.com/saskjavascript/Sencha-Touch-Contact-List/raw/master/contact-list-wireframe-1.png "Optional title")
